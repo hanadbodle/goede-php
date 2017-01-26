@@ -1,0 +1,36 @@
+*{
+    font-family: 'Oleo Script Swash Caps', cursive;
+    color: #fee;
+    text-shadow: rgba(0,0,0,.01) 0 0 1px;
+    -webkit-font-smoothing: antialiased;
+}
+
+
+div{
+    margin: 200px;
+    text-align: center;
+}
+
+h1{
+    font-size: 4em;
+}
+
+h2{
+    font-size: 3em;
+}
+
+.nacht{
+    background: url(backgrounds/night.png)
+}
+
+.morgen{
+    background: url(backgrounds/morning.png)
+}
+
+.middag{
+    background: url(backgrounds/afternoon.png)
+}
+
+.avond{
+    background: url(backgrounds/evening.png)
+}
